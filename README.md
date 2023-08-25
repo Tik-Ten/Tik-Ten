@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My name is Farbod
+- 🔭 I’m currently working on Python - HTML - CSS - VBScript
+- 💬 Ask me about Python and web
+- 📫 How to reach me:
+
+  My email: farbod.p1390@gmail.com
+
+  My discord ID: FarbodParkhooi#7286
+
+  And you can use skype for message!
+
+- ⚡ Fun fact: A programmer always needs a coffee

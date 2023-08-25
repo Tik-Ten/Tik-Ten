@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
   My discord ID: FarbodParkhooi#7286
 
-  And you can use skype for message!
+  And you can use Skype for messages!
 
 - ⚡ Fun fact: A programmer always needs a coffee
+-  🌱 I’m currently learning Arduino
+-  🦾🦿 I love creating really robot

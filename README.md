@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   And you can use Skype for messages!
 
 - ⚡ Fun fact: A programmer always needs a coffee
--  🌱 I’m currently learning Arduino
+-  🌱 I’m currently learning C#
 -  🦾🦿 I love creating really robot
